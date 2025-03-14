@@ -18,8 +18,3 @@
   <li>How to implement 'react-data-table-component' for better performance.</li> 
 </ul>
 
-
-
-Uploading output_assessment.mp4…
-
-
