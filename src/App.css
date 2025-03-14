@@ -1,0 +1,62 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;  
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+
+.rdt_TableCell, .rdt_TableCol{
+  border: 2px solid black;
+}
+.table td, .table th{
+  border: 2px solid black;
+}
+.detail_form{   
+  margin-top: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+  width: 100%;
+}
+.detail_form label{
+  text-transform: uppercase;
+}
+.detail_form input{
+    width: 300px;   
+    margin-bottom: 10px;
+}
+.form_background {
+  display: flex;
+  justify-content: center;  
+  align-items: center;     
+  border: 2px solid black;
+  width: 500px;
+  margin: 0 auto;         
+}
+.btn{
+  width: 100px;
+}
