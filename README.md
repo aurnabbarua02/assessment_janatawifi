@@ -1,7 +1,3 @@
-
-
-https://github.com/user-attachments/assets/f76d8d5c-e8fc-476e-8271-49796c52a098
-
 <h2>Project Overview</h2>
 <p>This project displays 'Stock Market Data' in a chart and table format using 'React.js' as the frontend and 'Django' as the backend. While working on this project, I faced many challenges, and overcoming them helped me learn a lot.</p>
 
@@ -21,3 +17,4 @@ https://github.com/user-attachments/assets/f76d8d5c-e8fc-476e-8271-49796c52a098
   <li>The existence and usage of 'react-select', which efficiently handles select operations.</li> 
   <li>How to implement 'react-data-table-component' for better performance.</li> 
 </ul>
+https://github.com/user-attachments/assets/f76d8d5c-e8fc-476e-8271-49796c52a098
